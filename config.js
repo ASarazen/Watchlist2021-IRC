@@ -1125,6 +1125,10 @@ var config = {
             },
             onChapterEnter: [
                 {
+                    layer: 'country-label',
+                    opacity: 0
+                },
+                {
                     layer: 'Yemen',
                     opacity: 1
                 },
